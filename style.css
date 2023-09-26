@@ -1,0 +1,18 @@
+table,
+th,
+td {
+  border: 1px solid black;
+}
+
+td {
+  padding: 0.5rem;
+}
+
+table {
+  margin: 0 auto;
+  background-color: aqua;
+}
+
+h2 {
+  text-align: center;
+}
